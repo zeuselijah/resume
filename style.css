@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:darkgreen;
+    height: 50px;
+    color:bisque;
+    font-family: Helvetica;
+}
